@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaish01
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently doing B.E in Computer Science
+- 🌱 I’m currently pursuing MTech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 You can reach me at: aaishwaryagaikwad.pune@gmail.com
 
